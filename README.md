@@ -1,3 +1,3 @@
 # SelBot
-selenium automation w/h eclipse and selenium webdriver  
-this is a bare-bones, basic tester file. Not an actual project
+Selenium automation w/h eclipse and selenium webdriver  
+This is a bare-bones, basic tester file. Not an actual project
